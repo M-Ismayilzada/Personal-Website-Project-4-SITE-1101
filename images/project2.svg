@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 550" role="img" aria-labelledby="title description">
+  <title id="title">Hour of Code illustration</title>
+  <desc id="description">Colorful instruction blocks and a small pixel star on a violet background.</desc>
+  <rect width="900" height="550" fill="#e5e3f2"/>
+  <circle cx="727" cy="117" r="94" fill="#f3d986"/>
+  <circle cx="727" cy="117" r="69" fill="#f8e9ba"/>
+  <path d="M94 445c87-51 152-29 226-2 91 33 175 40 270-5 70-33 135-39 210-8v120H94Z" fill="#d0cce8"/>
+  <g transform="rotate(-5 438 276)">
+    <rect x="194" y="115" width="510" height="323" rx="18" fill="#fffefa" stroke="#cbc7df" stroke-width="2"/>
+    <rect x="194" y="115" width="510" height="48" rx="18" fill="#f0eff7"/>
+    <path d="M194 145v18h510v-18" fill="#f0eff7"/>
+    <circle cx="221" cy="139" r="6" fill="#e9876a"/>
+    <circle cx="242" cy="139" r="6" fill="#e6c876"/>
+    <circle cx="263" cy="139" r="6" fill="#78a88e"/>
+    <text x="298" y="144" fill="#6c6887" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">A SEQUENCE OF STEPS</text>
+    <rect x="231" y="190" width="248" height="50" rx="9" fill="#c8d9f0"/>
+    <circle cx="256" cy="215" r="11" fill="#6784bd"/>
+    <path d="M252 211v8l8-4Z" fill="#fff"/>
+    <text x="282" y="220" fill="#33475f" font-family="Arial, sans-serif" font-size="16" font-weight="700">START WITH A PLAN</text>
+    <rect x="275" y="254" width="278" height="50" rx="9" fill="#f3dba0"/>
+    <path d="m298 279 8-8 8 8-8 8Z" fill="#c89945"/>
+    <text x="326" y="284" fill="#594a31" font-family="Arial, sans-serif" font-size="16" font-weight="700">ADD ONE INSTRUCTION</text>
+    <rect x="231" y="318" width="248" height="50" rx="9" fill="#c9e2d0"/>
+    <path d="m251 341 7 7 13-16" fill="none" stroke="#4d8563" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <text x="282" y="348" fill="#365842" font-family="Arial, sans-serif" font-size="16" font-weight="700">SEE WHAT HAPPENS</text>
+    <path d="M510 216h38m-9-9 9 9-9 9m-29 69h28m-9-9 9 9-9 9" fill="none" stroke="#9088b8" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <rect x="573" y="252" width="84" height="84" rx="20" fill="#eee8f8"/>
+    <path d="m615 265 10 20 22 3-16 15 4 22-20-10-19 10 4-22-16-15 22-3Z" fill="#a38ec3"/>
+  </g>
+  <path d="m118 129 8 16 18 2-13 12 3 18-16-9-16 9 3-18-13-12 18-2Z" fill="#e9876a"/>
+</svg>

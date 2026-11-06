@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 550" role="img" aria-labelledby="title description">
+  <title id="title">Robotics project illustration</title>
+  <desc id="description">A friendly wheeled robot with distance sensors on a warm peach-colored background.</desc>
+  <rect width="900" height="550" fill="#f0e2d6"/>
+  <circle cx="713" cy="103" r="71" fill="#f4d28d"/>
+  <path d="M0 413c93-42 179-38 272-3 100 37 200 39 313 4 114-36 213-34 315 2v134H0Z" fill="#e6cbbb"/>
+  <path d="M131 416h622" fill="none" stroke="#c89d86" stroke-dasharray="4 14" stroke-linecap="round" stroke-width="4"/>
+  <g transform="translate(210 118)">
+    <path d="M178 83V51m125 32V51" fill="none" stroke="#3b6253" stroke-linecap="round" stroke-width="8"/>
+    <circle cx="178" cy="42" r="12" fill="#d3ed74" stroke="#3b6253" stroke-width="5"/>
+    <circle cx="303" cy="42" r="12" fill="#d3ed74" stroke="#3b6253" stroke-width="5"/>
+    <path d="M130 133c0-27 21-48 48-48h125c27 0 48 21 48 48v139H130Z" fill="#668a76" stroke="#385d4d" stroke-width="5"/>
+    <rect x="152" y="113" width="177" height="99" rx="25" fill="#dce8d9"/>
+    <circle cx="204" cy="161" r="12" fill="#2c4038"/>
+    <circle cx="276" cy="161" r="12" fill="#2c4038"/>
+    <path d="M211 188q29 25 58 0" fill="none" stroke="#3b6253" stroke-linecap="round" stroke-width="6"/>
+    <rect x="84" y="222" width="67" height="71" rx="16" fill="#577c69" stroke="#385d4d" stroke-width="5"/>
+    <rect x="333" y="222" width="67" height="71" rx="16" fill="#577c69" stroke="#385d4d" stroke-width="5"/>
+    <rect x="122" y="250" width="233" height="70" rx="17" fill="#e9876a" stroke="#a86452" stroke-width="5"/>
+    <circle cx="157" cy="323" r="40" fill="#34433c"/>
+    <circle cx="157" cy="323" r="18" fill="#bcc5b8"/>
+    <circle cx="320" cy="323" r="40" fill="#34433c"/>
+    <circle cx="320" cy="323" r="18" fill="#bcc5b8"/>
+    <rect x="195" y="270" width="88" height="29" rx="8" fill="#f5d894"/>
+    <circle cx="218" cy="284" r="6" fill="#647b67"/>
+    <circle cx="260" cy="284" r="6" fill="#647b67"/>
+  </g>
+  <path d="M160 163h44m-15-15 15 15-15 15m494 92h34m-13-13 13 13-13 13" fill="none" stroke="#bc816b" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <circle cx="134" cy="361" r="8" fill="#668a76"/>
+  <circle cx="764" cy="347" r="6" fill="#e9876a"/>
+</svg>
